@@ -1,0 +1,111 @@
+#page{
+	width: 1060px;
+	height: 1838px;
+	background-color: #ed5555;
+	margin: auto;
+}
+.row{
+	height: 450px;
+	border: 1px solid;
+	margin-bottom: 10px;
+}
+.boxes{
+	border: 2px solid;
+	float: left;
+	}
+#intro{
+	width: 300px;
+	height: 285px;
+	margin-top: 80px;
+	margin-left: 85px;
+}
+#iwords{
+	font-size: 18px;
+	text-align: center;
+}
+#kitty{
+	border-radius: 50%;
+	margin-left: 100px;
+	margin-top: 80px;
+}
+#clan{
+	height: 180px;
+	width: 180px;
+	margin-left: 10px;
+	margin-top: 50px;
+}
+#clam{
+	height: 180px;
+	width: 180px;
+}
+#cats{
+	height: 350px;
+	width: 660px;
+	margin-left: 2px;
+}	
+h1{
+	text-align: center;
+}
+#ititle{
+	font-size: 27px;
+}
+#books{
+	width: 100%;
+}
+.pic{
+	display: block;
+	margin: auto;
+	margin-left: 40px;
+	height: 230px;
+	width: 150px;
+}
+.btitle{
+	font-size: 16px;
+	text-align: center;
+}
+#caption{
+	text-align: center;
+}
+#jay{
+	height: 180px;
+	width: 180px;
+	margin-top: 50px;
+	margin-left: 2px;
+}
+#feather{
+	height: 180px;
+	width: 180px;
+}
+#arcs{
+	height: 350px;
+	width: 679px;
+	margin-left: 60px;
+}
+#series{
+	width: 100%;
+}
+.picc{
+	display: block;
+	margin: auto;
+	height: 230px;
+	width: 150px;
+}
+.wof{
+	text-align: center;
+}
+#cs{
+	height: 365px;
+	width: 200px;
+	margin-left: 50px;
+	margin-right: 60px;
+	margin-top: 10px;
+}
+#dd{
+	text-align: center;
+}
+.test{
+	background-color: blue;
+	width: 50px;
+	height: 50px;
+	border: 1px solid;
+}
