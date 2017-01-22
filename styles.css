@@ -103,9 +103,12 @@ h1{
 #dd{
 	text-align: center;
 }
+.gallery{
+	width: 400px;
+	height: 300px;
+}
 .gpic{
-	width: 80px;
-	height: 80px;
+	width: 80%;
 }
 .gbox{
 	width: 200px;
