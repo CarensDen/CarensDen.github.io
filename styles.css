@@ -104,7 +104,8 @@ h1{
 	text-align: center;
 }
 .gpic{
-	width: 80%;
+	width: 80px;
+	height: 80px;
 }
 .gbox{
 	width: 200px;
